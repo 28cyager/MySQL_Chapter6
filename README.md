@@ -2,7 +2,7 @@
 
 <b>Table of Content</b>
 - [Summary](#summary)
-- [Workers](#workers)
+- [Contributers](#contributers)
 - [New Concepts Used](#new-concepts-used)
 - [Browser Output Example](#browser-output-example)
 
@@ -14,7 +14,9 @@ This is a list of exercises, the code done to use them, and the results of that 
 [@fafal80](https://github.com/fafal80) Faith Coufal
 
 ## New Concepts Used
-- 
+- DISTINCT command
+- MIN MAX & ROUND commands
+- ROLLUP command
 
 ## Browser Output Example
 ##Exercise 1
