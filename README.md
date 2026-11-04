@@ -9,12 +9,12 @@
 ## Summary
 This is a list of exercises, the code done to use them, and the results of that code and its product.
 
-## Workers
+## Contributers
 [@28cyager](https://github.com/28cyager) Christian Yager
+[@fafal80](https://github.com/fafal80) Faith Coufal
 
 ## New Concepts Used
 - 
-
 
 ## Browser Output Example
 ##Exercise 1
